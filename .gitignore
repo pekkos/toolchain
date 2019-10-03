@@ -1,0 +1,2 @@
+node_modules
+!node_modules/@frctl/fractal/src/cli/commands/web.start.js

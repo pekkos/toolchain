@@ -1,0 +1,20 @@
+{
+    "name": "toolchain_lab",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pekkos/toolchain"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "grunt": "^1.0.4"
+    },
+    "dependencies": {
+        "@frctl/fractal": "^1.1.7",
+        "@frctl/handlebars": "^1.1.5"
+    }
+}
